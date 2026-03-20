@@ -2,8 +2,8 @@
 
 ## Specs
 - CPU: Intel i5
-- RAM: 8GB
-- Storage: 2x2TB HDD
+- RAM: 8GB DDR3
+- Storage: 2x1TB HDD
 
 ## Purpose
 - Network-attached storage
